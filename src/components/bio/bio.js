@@ -27,13 +27,12 @@ function Bio() {
                 borderRadius: '100%',
               }}
             />
-            <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.{' '}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
-            </p>
+            <div style={{
+              flexDirection: 'column'
+            }}>
+            <span>Personal blog by <strong>{author}</strong>.</span><br />
+            <span>Figuring out JavaScript one mistake at a time.</span>
+            </div>
           </div>
         )
       }}
