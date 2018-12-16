@@ -1,7 +1,9 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# getScript('Or Die Tryin')
+## Figuring Out JavaScript One Mistake at a Time
+JavaScript blog created with Gatsby
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+---
+Install the Gatsby starter (assuming Gatsby is installed) by running from your CLI:
 
 `gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
 
