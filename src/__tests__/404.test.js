@@ -1,6 +1,6 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
-import NotFoundPage from './404'
+import NotFoundPage from '../pages/404'
 
 describe('NotFoundPage tests', () => {
   it('renders correctly', () => {

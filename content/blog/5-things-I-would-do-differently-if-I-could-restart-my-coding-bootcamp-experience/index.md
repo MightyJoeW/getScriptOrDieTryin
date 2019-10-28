@@ -3,7 +3,7 @@ title: 5 things I would do differently if I could restart my coding bootcamp exp
 date: "2017-12-11"
 ---
 
-> “Coding bootcamp is hard!” 
+> “Coding bootcamp is hard!”
 > “It’s like drinking from a firehose!” 
 > “You’ll constantly feel like you’re in water that’s just below your nose!”
 
