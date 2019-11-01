@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Bio from '../components/bio/bio'
@@ -6,7 +6,7 @@ import Layout from '../components/layout/layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 
-class BlogPostTemplate extends React.Component {
+export default class BlogPostTemplate extends Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
@@ -62,8 +62,6 @@ class BlogPostTemplate extends React.Component {
     )
   }
 }
-
-export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {

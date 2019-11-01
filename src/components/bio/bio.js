@@ -30,8 +30,8 @@ function Bio() {
             <div style={{
               flexDirection: 'column'
             }}>
-            <span>Personal blog by <strong>{author}</strong>.</span><br />
-            <span>Figuring out JavaScript one mistake at a time.</span>
+              <span>Personal blog by <strong>{author}</strong>.</span><br />
+              <span>Figuring out JavaScript one mistake at a time.</span>
             </div>
           </div>
         )
