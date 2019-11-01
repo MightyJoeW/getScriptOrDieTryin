@@ -55,7 +55,7 @@ Pesticide can help clear up confusion when working with positioning. When your d
 I didn’t initially like Trello, but it has become my go-to productivity app. It took me awhile to get used to it, but after giving it some time, I immediately grew attached.
 
 <figure>
-  <img src="./trello.jpeg" alt="Example of a Trello task list"/>
+  <img src="./trello.jpg" alt="Example of a Trello task list"/>
   <figcaption style="text-align: center">Example of a Trello task list</figcaption>
 </figure>
 

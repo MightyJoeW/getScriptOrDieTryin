@@ -44,10 +44,14 @@ This is an extension of the point above. Crowds generally welcome someone that i
 
 I am a huge fan of story-telling because it has the power to grab people’s attention in ways that your informative content cannot do alone. In addition to story-telling, humor and crowd interaction helps to keep people interested and engaged. If you’re simply a non-funny human, you can still try out a joke or two. If no one laughs, say some things that will at least make you laugh.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HuumGRGpYDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 While your priority is delivering good content to those that made a conscious decision to sit and listen to you, I believe it’s just as important that you get to enjoy the process since you’ve put in the work and experienced the stress of preparing & putting yourself out there.
 
 ###Be myself.
 Presentations are important, especially if a job or position depends on your performance. But for me personally, I’ve found that my presentations are much better when I’m having fun while presenting information. When trying to perfectly articulate every word or use a strictly “professional” tone, I feel robotic and come across as inauthentic.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCAHF0Ssg7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The preparation and practice was done beforehand so I’m going to deliver the information and value that I promised, but it doesn’t have to be in someone else’s voice or style to sound how I think a professional should sound.
 
