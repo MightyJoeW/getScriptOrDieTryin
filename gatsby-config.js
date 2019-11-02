@@ -9,6 +9,21 @@ module.exports = {
     }
   },
   plugins: [
+    // enable google analytics with gatsby build and test with gatsby serve
+    // docs https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-43084370-3",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true,
+        // respect Do Not Track - optional
+        respectDNT: true,
+
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -73,12 +88,6 @@ module.exports = {
       options: {
         pathToConfigModule: 'src/utils/typography',
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-43084370-3",
-      },
-    },
+    }
   ],
 }
