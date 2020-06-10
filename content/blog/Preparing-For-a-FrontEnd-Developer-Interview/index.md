@@ -113,7 +113,7 @@ Of my 20 interviews, none of them were exactly the same (and neither were any of
 
 * <strong>Whiteboard</strong> - solving algorithms (i.e. reverse a string, use function chaining) 
 * <strong>Codewars-style algorithm challenges on a computer</strong> (i.e. write a function to generate the Fibonacci sequence)
-* <strong>Building a small web app that meets specific requirements</strong> (i.e make an API call to retrieve and display data then add stying to match the design comp)
+* <strong>Building a small web app that meets specific requirements</strong> (i.e make an API call to retrieve and display data then add styling to match the design comp)
 * <strong>Build a static page to match a design comp</strong>
 * <strong>Assess a basic react component to point out issues, refactor, etc.</strong>
 
