@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import { Link, graphql } from 'gatsby'
+import { GATSBY_DISQUS_NAME } from '../../local'
+import { DiscussionEmbed } from "disqus-react"
 
 import Bio from '../components/bio/bio'
 import Layout from '../components/layout/layout'
@@ -8,9 +10,18 @@ import { rhythm, scale } from '../utils/typography'
 
 export default class BlogPostTemplate extends Component {
   render() {
+    console.log('props: ', this.props)
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
+    const disqusConfig = {
+      shortname: GATSBY_DISQUS_NAME,
+      config: {
+        url: `https://www.getscriptordietryin.com${this.props.uri}`,
+        identifier: this.props.pageContext.slug,
+        title: this.props.data.markdownRemark.frontmatter.title
+      },
+    }
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -58,6 +69,7 @@ export default class BlogPostTemplate extends Component {
             )}
           </li>
         </ul>
+        <DiscussionEmbed {...disqusConfig} />
       </Layout>
     )
   }
