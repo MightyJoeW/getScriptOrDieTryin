@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link, graphql } from 'gatsby'
-import { GATSBY_DISQUS_NAME } from '../../local'
+import { GATSBY_DISQUS_NAME } from '../../local.js'
 import { DiscussionEmbed } from "disqus-react"
 
 import Bio from '../components/bio/bio'
