@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Link, graphql } from 'gatsby'
-import { GATSBY_DISQUS_NAME } from '../../local.js'
 import { DiscussionEmbed } from "disqus-react"
 
 import Bio from '../components/bio/bio'
@@ -15,7 +14,7 @@ export default class BlogPostTemplate extends Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
     const disqusConfig = {
-      shortname: GATSBY_DISQUS_NAME,
+      shortname: 'https-www-getscriptordietryin-com',
       config: {
         url: `https://www.getscriptordietryin.com${this.props.uri}`,
         identifier: this.props.pageContext.slug,
