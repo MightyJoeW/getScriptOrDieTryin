@@ -70,4 +70,4 @@ Assuming that you have prepared your talk and visual content, this is a simple r
 
 Everyone has a powerful story to tell or valuable information to share, and it is my desire to help others with this process. Even if we’re not “professional” speakers, we are indeed capable of speaking to give back to the community while figuring out ways to have fun throughout the process. Specifically in the world of development, no matter how little you know, you have information, experience, and value that others will benefit and learn from.
 
-<em>Have you given any public talks or presentations? Do you have any techniques that help you overcome fears related to public speaking? Leave a comment below or <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener">connect with me on LinkedIn</a>.</em>
+<em>Have you given any public talks or presentations? Do you have any techniques that help you overcome fears related to public speaking? Leave a comment below or <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
