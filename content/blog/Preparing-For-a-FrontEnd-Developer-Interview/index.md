@@ -5,7 +5,7 @@ date: "2020-06-09"
 
 <figure>
   <img src="./dog-interview.jpg" alt="Golden Retriever Sitting in Interview Chair"/>
-  <figcaption style="text-align: center">Photographer: <a href="http://instagram.com/drew_hays" target="_blank" rel="noopener">Drew Hays</a></figcaption>
+  <figcaption style="text-align: center">Photographer: <a href="http://instagram.com/drew_hays" target="_blank" rel="noopener noreferrer">Drew Hays</a></figcaption>
 </figure>
 
 <em>Technical interviews</em>. This phrase can send chills down the spine of even the bravest engineers. The nature of a technical interview can vary wildly from company to company, and this unpredictability adds an unnecessary layer of stress to the process. 
@@ -20,7 +20,7 @@ This article is an accumulation of real world experience which can serve as your
 ###Before the Battle: Know Your Story.
 <figure>
   <img src="./person2.jpg" alt="Male silly headshot"/>
-  <figcaption style="text-align: center">Photographer: <a href="armedshutter.com" target="_blank" rel="noopener">Ayo Ogunseinde</a></figcaption>
+  <figcaption style="text-align: center">Photographer: <a href="armedshutter.com" target="_blank" rel="noopener noreferrer">Ayo Ogunseinde</a></figcaption>
 </figure>
 
 Before you even think about flawlessly maneuvering through technical interviews, it is highly recommended to spend time polishing your story. First impressions are critical, and I’m sure you’ve heard about having a 30 second elevator pitch prepared.
@@ -34,7 +34,7 @@ This doesn’t only apply to interviews. If you’re at a Meetup or a networking
 ###The Phone Screen
 <figure>
   <img src="./phone-screen.jpg" alt="Golden Retriever Sitting in Interview Chair"/>
-  <figcaption style="text-align: center">Photographer: <a href="http://jeshoots.com" target="_blank" rel="noopener">jeshoots</a></figcaption>
+  <figcaption style="text-align: center">Photographer: <a href="http://jeshoots.com" target="_blank" rel="noopener noreferrer">jeshoots</a></figcaption>
 </figure>
 
 If a company has recruiters, this will likely be the first person you engage with. A call with the recruiter is a feeling-out process in which the recruiter is seeing if you have the basic skills that the company is looking for. 
@@ -48,7 +48,7 @@ Before hanging up, <strong>ask questions</strong>! Learn whatever you can about 
 ###The Phone Interview
 <figure>
   <img src="./phone-interview.jpg" alt="Man wearing headset"/>
-  <figcaption style="text-align: center">Photographer: <a href="http://instagram.com/austindistel" target="_blank" rel="noopener">Austin Distel</a></figcaption>
+  <figcaption style="text-align: center">Photographer: <a href="http://instagram.com/austindistel" target="_blank" rel="noopener noreferrer">Austin Distel</a></figcaption>
 </figure>
 
 Companies start to branch off into different directions at this stage of the interview process, but many of them follow up the phone screen with a phone interview. 
@@ -94,7 +94,7 @@ Below are examples of great questions to ask:
 ###The Technical Interview.
 <figure>
   <img src="./whiteboard-covid19.jpg" alt="Man writing on whiteboard wearing face mask"/>
-  <figcaption style="text-align: center">Photographer: <a href="http://airfocus.com" target="_blank" rel="noopener">airfocus</a></figcaption>
+  <figcaption style="text-align: center">Photographer: <a href="http://airfocus.com" target="_blank" rel="noopener noreferrer">airfocus</a></figcaption>
 </figure>
 
 Having fun yet? You are now in the waiting game. Companies have many candidates and information to process while yet having daily work assignments and deadlines. Getting a call back can take awhile, so be patient and continue practicing and applying elsewhere during this time.
@@ -122,22 +122,22 @@ This is usually the final round, but some companies will then send a take home a
 Jot questions throughout the process so that you don’t forget anything when the time comes to <strong>ask questions</strong>. This is your last shot to gain insight as well as leave a lasting impression. And of course, be courteous and express your gratitude and appreciation for their time.
 
 ###Preparation Resources for Technical Interviews
-* <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank" rel="noopener">Front-end Job Interview Questions</a>
-* <a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank" rel="noopener">React Interview Questions</a>
-* <a href="https://www.codewars.com" target="_blank" rel="noopener">Codewars</a>
+* <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" target="_blank" rel="noopener noreferrer">Front-end Job Interview Questions</a>
+* <a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank" rel="noopener noreferrer">React Interview Questions</a>
+* <a href="https://www.codewars.com" target="_blank" rel="noopener noreferrer">Codewars</a>
 
 ###Application Resources
 Be sure to subscribe to job alerts so you're notified when new jobs appear that fit what you're looking for. 
 
 
-* <a href="https://docs.google.com/spreadsheets/d/1GvXaYXM7O8dCRUWqTBqyVDlboZDwy6RnLPpCLnWez0M/edit#gid=1946609602" target="_blank" rel="noopener">My Personal Job Hunt Worksheet</a> - Feel free to use any of the tabs you find helpful to keep track of your progress. To edit, click File then select Make a Copy.
+* <a href="https://docs.google.com/spreadsheets/d/1GvXaYXM7O8dCRUWqTBqyVDlboZDwy6RnLPpCLnWez0M/edit#gid=1946609602" target="_blank" rel="noopener noreferrer">My Personal Job Hunt Worksheet</a> - Feel free to use any of the tabs you find helpful to keep track of your progress. To edit, click File then select Make a Copy.
 * [LinkedIn Jobs](https://www.linkedin.com/jobs/)
-* <a href="https://www.linkedin.com/mynetwork/" target="_blank" rel="noopener">LinkedIn Network</a> - Connect with people at companies you’re applying to and ask questions.
+* <a href="https://www.linkedin.com/mynetwork/" target="_blank" rel="noopener noreferrer">LinkedIn Network</a> - Connect with people at companies you’re applying to and ask questions.
 * Company Career pages (usually found in footer at bottom of homepage)
-* <a href="https://www.indeed.com/" target="_blank" rel="noopener">Indeed</a>
-* <a href="https://www.ziprecruiter.com/" target="_blank" rel="noopener">Zip Recruiter</a>
-* <a href="https://www.glassdoor.com/Job/Home/recentActivity.htm" target="_blank" rel="noopener">Glassdoor Jobs</a>
-* Reddit - Use with caution as there are a lot of ways to get distracted on Reddit, but there are quality job forums such as the <a href="https://www.reddit.com/r/reactjs/comments/gudtmn/whos_hiring_june_2020/" target="_blank" rel="noopener">React Who's Hiring</a> or the <a href="https://www.reddit.com/r/webdev/comments/gd0ag1/monthly_getting_started_web_dev_career_thread/" target="_blank" rel="noopener">Web Dev Career</a> threads. They also occasionally post “Who’s Available” threads for job seekers to post their info and/or receive portfolio feedback.
+* <a href="https://www.indeed.com/" target="_blank" rel="noopener noreferrer">Indeed</a>
+* <a href="https://www.ziprecruiter.com/" target="_blank" rel="noopener noreferrer">Zip Recruiter</a>
+* <a href="https://www.glassdoor.com/Job/Home/recentActivity.htm" target="_blank" rel="noopener noreferrer">Glassdoor Jobs</a>
+* Reddit - Use with caution as there are a lot of ways to get distracted on Reddit, but there are quality job forums such as the <a href="https://www.reddit.com/r/reactjs/comments/gudtmn/whos_hiring_june_2020/" target="_blank" rel="noopener noreferrer">React Who's Hiring</a> or the <a href="https://www.reddit.com/r/webdev/comments/gd0ag1/monthly_getting_started_web_dev_career_thread/" target="_blank" rel="noopener noreferrer">Web Dev Career</a> threads. They also occasionally post “Who’s Available” threads for job seekers to post their info and/or receive portfolio feedback.
 
 Take advantage of these tools to research and apply to jobs, but remember that you will significantly improve your chances if you <em><strong>develop real relationships with people</strong></em> at different companies. 
 
@@ -146,4 +146,4 @@ Building your network will position you to benefit from referrals and having a g
 There is no denying that landing a job can be a challenging endeavor, but I hope that this guide will improve your preparation tactics and increase your chances of landing that dream job. You've got this!
 
 
-<em>If you have any thoughts, comments or questions, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener">connect with me on LinkedIn</a>.</em>
+<em>Leave a comment below if you have any thoughts, comments, or questions. Also, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
