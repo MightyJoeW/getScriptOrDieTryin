@@ -106,4 +106,4 @@ My story will be different from yours, but I hope that something in here can enc
 
 If you maybe feel too old to pursue something new, I’ve met and seen stories from many people who are so happy to have pursued a new career later in life. No matter what, keep moving forward and work hard!
 
-<em>If you have any thoughts, comments or questions, feel free to comment below or <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn.</a></em>
+<em>Leave a comment below if you have any thoughts, comments, or questions. Also, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>

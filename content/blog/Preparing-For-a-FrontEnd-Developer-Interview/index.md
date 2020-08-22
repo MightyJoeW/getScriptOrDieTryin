@@ -146,4 +146,4 @@ Building your network will position you to benefit from referrals and having a g
 There is no denying that landing a job can be a challenging endeavor, but I hope that this guide will improve your preparation tactics and increase your chances of landing that dream job. You've got this!
 
 
-<em>If you have any thoughts, comments or questions, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
+<em>Leave a comment below if you have any thoughts, comments, or questions. Also, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>

@@ -1,6 +1,6 @@
 ---
 title: Is Math Needed For Web Development?
-date: "2020-08-21"
+date: "2020-08-22"
 ---
 
 <figure>
@@ -152,7 +152,7 @@ Now, let’s find the submitBtn `class` in CSS.
 
 CSS can do much more than changing colors and positioning. CSS can do animations, transitions, and even calculations. 
 
-You can dive deeply into CSS and find useful cases where math is required. However, much of your CSS will free of any math calculations. 
+You can dive deeply into CSS and find useful cases where math is required. However, much of your CSS will be free of any math calculations. 
 
 The most common math in CSS is determining the size of an element using pixels (i.e. `height: 50px`) or percentages (i.e. `width: 50%`).
 
@@ -170,20 +170,20 @@ In a basic algebra problem that solves for `x`, `x` has a value that you are try
 
 This problem is more complicated than much of the math you’ll use for basic web development. With algebra problems, you have to solve the equation yourself. With JavaScript, you can create functions to solve problems for you. More on that later.
 
-Let’s assume the person using our calculator has signed in. We know their name, so we want to store their name in a variable. 
+Imagine we know that our user's name is something iconic like Joe. We want to store that name in a variable to make our code easier to maintain. 
 
 `const userName = ‘Joe’;`
 
-`const` represents a constant variable that will never change.
+`const` represents a constant variable.
 
 `userName` is the name I decided to give the variable. You can name your variables just about 
 anything, but it’s always best to choose a name that makes the most sense for your application. 
 
-`‘Joe’` is the value that I assigned to the userName variable. 
+`‘Joe’` is the value that I assigned to the `userName` variable. 
 
-By creating a variable with the user’s name, I can now reference `userName` anywhere in my site and it will display the text `Joe`. 
+By creating a variable with the user’s name, I can now reference `userName` anywhere in my site and it will display the text `  Joe`. If I want to change the name to something else, I only have to change the value of userName opposed to changing every individual instance of `Joe` throughout the site.
 
-Let’s get back to our calculator. After the user enters two numbers and presses the Submit button, we want JavaScript to add the two numbers together. We will do so using a function.
+Now that we've explored the importance of storing values in variables, let’s look back at our calculator. After the user enters two numbers and presses the Submit button, we want JavaScript to add the two numbers together. We will do so using a function.
 
 The beautiful part about programming languages is that they will do the calculations for you. You just need to learn how to set up the function to do so. 
 
@@ -199,7 +199,7 @@ First, we created a function named `sum`. `sum` is a function that takes in two 
 
 `a` and `b` are place holders. When I want to actually add two numbers using this function, I’ll call the function using two real numbers like so:
 
-`sum(2,3)` will return 5
+`sum(2,3)` will return 2 + 3 which equals 5
 
 If you know what problem you are trying to solve, you can write different functions to handle any math or calculations needed in your site or app. I can now get the result of `82304` + `62993` instantly because of this little function. I have no idea what that answer is off the top of my head, but `sum(82304, 62993)` will calculate the answer immediately 😉
 
@@ -211,7 +211,7 @@ If you know what problem you are trying to solve, you can write different functi
 
 Our Sum Machine is nearly finished. We just would need to add a couple of things to HTML and JavaScript for the submit button to display the answer. 
 
-In HTML, we could create a `Form` element with two input fields for the user to enter the numbers to add. In JavaScript, we’ll find those two numbers and create variables that can be inserted into our `sum()` function. 
+In HTML, we will use a `Form` element with two input fields for the user to enter the numbers to add. In JavaScript, we’ll find those two numbers and create variables that can be inserted into our `sum()` function. 
 
 Breaking down form submission and document methods is beyond the scope of this article, but you can view the code and use The Sum Machine <a href="https://codepen.io/MightyJoeW/pen/JjXXxLY" target="_blank" rel="noopener noreferrer">here on Codepen</a>.
 
@@ -224,7 +224,7 @@ Do you need to know math to use HTML? <strong>No</strong> <br />
 Do you need to know math to use CSS? <strong>No</strong> <br />
 Do you need to know math to use JavaScript? <strong>At least basic algebra</strong>
 
-HTML and CSS alone are vast languages that are capable of creating beautiful web experiences, complete with special effects and stunning visuals without any math.
+HTML and CSS alone are vast languages that are capable of creating beautiful web experiences, complete with modern styles and stunning visuals without any math.
 
 Although JavaScript does require a basic understanding of algebra, you absolutely do not need to be a math guru to create awesome sites and apps. 
 
@@ -234,4 +234,4 @@ Just keep in mind that apps with greater complexity may require a deeper underst
 
 Lastly, if you have no desire to learn how to code but need to put a site together, you can use a drag-and-drop CMS such as Wordpress.
 
-<em>If you have any thoughts, comments or questions, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
+<em>Leave a comment below if you have any thoughts, comments, or questions. Also, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
