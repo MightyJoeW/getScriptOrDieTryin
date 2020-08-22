@@ -47,7 +47,7 @@ Add screenshots of things such as your actual code, a work in progress, a finish
   <figcaption style="text-align: center">#100DaysOfCode post featuring an Arduino setup</figcaption>
 </figure>
 
-<strong>Include links to live projects</strong> - It’s great having links to your GitHub repos, but again, let’s help out your viewers. Everyone will not take the time to look through your code or clone your repos to see your projects. <a href="https://pages.github.com/" target="_blank" rel="noopener"> GitHub Pages</a> provides free hosting for your sites online. If you use Codepen, include those links too.
+<strong>Include links to live projects</strong> - It’s great having links to your GitHub repos, but again, let’s help out your viewers. Everyone will not take the time to look through your code or clone your repos to see your projects. <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer"> GitHub Pages</a> provides free hosting for your sites online. If you use Codepen, include those links too.
 
 <strong>Pin on Twitter</strong> - If you are doing the daily #100DaysOfCode tweets, consider creating and pinning a tweet about your log with a link to it. That way, anyone who sees your Twitter page will immediately have a link to your vivid coding journey. To pin a tweet, click the downward pointing arrow at the top right corner of your tweet and select ‘Pin to your profile page.’
 
@@ -66,7 +66,7 @@ Day 1: Day Month 01, 2018
 
 If using the format above on your log in GitHub, you can replace the ```#``` in ```<img src=”#” alt=””>``` with a link to any photo. Right click on the photo that you want to use and select ‘Copy Image Address’ to be able use your photo.
 
-<strong>If you would like to use a gif</strong>, <a href="https://giphy.com/" target="_blank" rel="noopener">giphy.com</a> has a quick and easy process for converting videos to gifs. When finished, you’ll click on the link icon on your newly created gif to copy the link. Then in your img tag in your log, replace the hashtag with your gif link like the code snippet below.
+<strong>If you would like to use a gif</strong>, <a href="https://giphy.com/" target="_blank" rel="noopener noreferrer">giphy.com</a> has a quick and easy process for converting videos to gifs. When finished, you’ll click on the link icon on your newly created gif to copy the link. Then in your img tag in your log, replace the hashtag with your gif link like the code snippet below.
 
 ```
 <img src=”https://media.giphy.com/media/3o7bujx4ngGQWKcy0U/giphy.gif”>

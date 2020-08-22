@@ -48,7 +48,7 @@ I attended my first freeCodeCamp meetup in late December of 2016 (along with man
 
 ###100DaysOfCode
 
-I kicked off 2017 doing the <a href="https://github.com/MightyJoeW/100-Days-of-Code" target="_blank" rel="noopener">```#100DaysOfCode```</a> challenge. This was extremely important as it forced me to code for at least an hour everyday. Since I was still working full-time (and spending time after work in the gym), I would have likely missed many days without this public declaration and record-keeping of my daily progress.
+I kicked off 2017 doing the <a href="https://github.com/MightyJoeW/100-Days-of-Code" target="_blank" rel="noopener noreferrer">```#100DaysOfCode```</a> challenge. This was extremely important as it forced me to code for at least an hour everyday. Since I was still working full-time (and spending time after work in the gym), I would have likely missed many days without this public declaration and record-keeping of my daily progress.
 
 ###Podcasts
 <figure>
@@ -56,7 +56,7 @@ I kicked off 2017 doing the <a href="https://github.com/MightyJoeW/100-Days-of-C
   <figcaption style="text-align: center">Code Newbie</figcaption>
 </figure>
 
-Podcasts almost completely replaced music for me for awhile. I started listening to <a href="https://www.programmingthrowdown.com/" target="_blank" rel="noopener">Programming Throwdown</a> and <a href="https://www.codenewbie.org/" target="_blank" rel="noopener">CodeNewbie</a> just about everyday. Programming Throwdown was great for hearing developers discuss topics such as programming languages and frameworks on a high level while CodeNewbie provided inspiration via success stories (oftentimes from career-changers). Over time, I continued to add more and more podcasts to my collection.
+Podcasts almost completely replaced music for me for awhile. I started listening to <a href="https://www.programmingthrowdown.com/" target="_blank" rel="noopener noreferrer">Programming Throwdown</a> and <a href="https://www.codenewbie.org/" target="_blank" rel="noopener noreferrer">CodeNewbie</a> just about everyday. Programming Throwdown was great for hearing developers discuss topics such as programming languages and frameworks on a high level while CodeNewbie provided inspiration via success stories (oftentimes from career-changers). Over time, I continued to add more and more podcasts to my collection.
 
 ###Meetups and Conferences
 Meetups may have been the most important aspect of my earlier days of learning. I was doing various courses online, but it was at meetups where I met other developers in the area and was able to learn in person.
@@ -85,14 +85,14 @@ I was already considering doing a bootcamp, so talking to these two people helpe
 
 Deciding to pay $11,000 while giving up my income was <em>not</em> an easy decision to make (especially being married with a mortgage, student loans, and other bills). However, I looked at this as a short-term investment in our future that I badly wanted and needed to do to get to the next level.
 
-Bootcamp has been incredibly fast-paced and overwhelming but I hung in there and worked hard everyday, even winning Best Presentation for my personal project. I am currently in my final 3 weeks, working to complete a group project (a <a href="https://github.com/FitTracker/Fitness-Goal-Tracker" target="_blank" rel="noopener">fit tracker app</a> that uses API’s to import and visualize data from multiple fitness apps including Fitbit and Strava).
+Bootcamp has been incredibly fast-paced and overwhelming but I hung in there and worked hard everyday, even winning Best Presentation for my personal project. I am currently in my final 3 weeks, working to complete a group project (a <a href="https://github.com/FitTracker/Fitness-Goal-Tracker" target="_blank" rel="noopener noreferrer">fit tracker app</a> that uses API’s to import and visualize data from multiple fitness apps including Fitbit and Strava).
 
 ###Writing and Blogging
 With the end of my bootcamp quickly approaching, I finally decided to take the time to write my first Medium article. 5 things I would do differently if I could restart my coding bootcamp experience was published on December 11th, 2017 by codeburst.io.
 
 I followed that up with a second article, How to Transform Your #100DaysOfCode Log Into a Visual Experience, which was published on December 20th, 2017 by freeCodeCamp.
 
-I’ve also been working on solving various JavaScript algorithms on my (original) <a href="https://getscriptordietryin.wordpress.com/" target="_blank" rel="noopener">getScript(‘OrDieTryin’)</a> blog.
+I’ve also been working on solving various JavaScript algorithms on my (original) <a href="https://getscriptordietryin.wordpress.com/" target="_blank" rel="noopener noreferrer">getScript(‘OrDieTryin’)</a> blog.
 
 ###Plans for 2018
 2017 was a whirlwind, and I expect nothing less from 2018. Here are a few of the things I plan to focus on heading into 2018:
@@ -106,4 +106,4 @@ My story will be different from yours, but I hope that something in here can enc
 
 If you maybe feel too old to pursue something new, I’ve met and seen stories from many people who are so happy to have pursued a new career later in life. No matter what, keep moving forward and work hard!
 
-<em>If you have any thoughts, comments or questions, feel free to comment below or <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener">connect with me on LinkedIn.</a></em>
+<em>Leave a comment below if you have any thoughts, comments, or questions. Also, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
