@@ -62,6 +62,7 @@ On another note, blog posts and articles can also help you land a job. I, along 
   <img src="./listening.webp" alt="grayscale photo of woman and man"/>
   <figcaption style="text-align: center">Photographer: <a href="https://unsplash.com/@ericmok" target="_blank" rel="noopener noreferrer">Erik Mok</a></figcaption>
 </figure>
+
 I learned about active listening when working in the life-coaching space years ago, and it is as relevant as ever in this field. With the number of meetings you can find yourself in, it’s easy to get distracted or to multitask. This creates an obvious issue as you are going to miss out on details throughout a call or planning session.
 
 I am guilty of picking up this bad habit of multitasking in meetings, and it takes effort to shut everything out to focus on what is being discussed. Active listening includes paraphrasing & reflecting back on what is being said, and this can be combined with note-taking to help remember important information long-term.
@@ -75,14 +76,12 @@ I am guilty of picking up this bad habit of multitasking in meetings, and it tak
 
 Last but certainly not least, it’s essential to take care of your health. Sleeping, drinking plenty of water, eating right, and exercising does wonders for your productivity as well as your memory.
 
-It’s said often, but there is also power in taking breaks. I can’t explain what is happening from a scientific perspective, but more times than not, stepping away from a problem for some time seems to be the secret sauce of figuring it out. This “fresh brain” can produce new ideas as well as pull past experiences to the forefront that can help at this moment.
+It’s said often, but there is also power in taking breaks. I can’t explain what is happening from a scientific perspective, but more times than not, stepping away from a problem for some time seems to be the secret sauce of figuring it out. This “fresh brain” can produce new ideas as well as pull past experiences to the forefront that can help at the moment.
 
 Last but certainly not least, be sure to take care of your mental health as well. Various employers and churches offer free counseling sessions and resources.
 
 As you can see, having a weakness should not deter you from pursuing a passion. Teammates regularly contact me for information because they know I have notes or a link saved somewhere!
 
-It may seem unfathomable to delve into the world of software development if you feel you don’t have a great memory, but if you use the many tools and processes at your disposal, you can thrive beyond anything you can imagine.
-
-Especially if you decide to create publically-available content, you are now giving back by helping others learn from your experiences and expertise.
+It may seem unfathomable to delve into the world of software development if you feel you don’t have a great memory, but if you use the many tools and processes at your disposal, you can thrive beyond anything you can imagine. Understand what you need specifically to succeed, and build around that.
 
 <em>Leave a comment below if you have any thoughts, comments, or questions. Also, feel free to <a href="https://www.linkedin.com/in/josephmwarren/" target="_blank" rel="noopener noreferrer">connect with me on LinkedIn</a>.</em>
