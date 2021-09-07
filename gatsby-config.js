@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     title: "getScript('Or Die Tryin')",
     author: 'Joe Warren',
-    description: 'Figuring Out JavaScript One Mistake at a Time.',
+    description: 'Career Tips and Insight For Software Developers.',
     siteUrl: 'http://www.getscriptordietryin.com',
     social: {
-      twitter: 'mightyjoew'
-    }
+      twitter: 'mightyjoew',
+    },
   },
   plugins: [
     // enable google analytics with gatsby build and test with gatsby serve
@@ -14,14 +14,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-43084370-3",
+        trackingId: 'UA-43084370-3',
         // Defines where to place the tracking script - `true` in the head and `false` in the body
         head: false,
         // Setting this parameter is optional
         anonymize: true,
         // respect Do Not Track - optional
         respectDNT: true,
-
       },
     },
     {
@@ -65,7 +64,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-43084370-3",
+        trackingId: 'UA-43084370-3',
       },
     },
     `gatsby-plugin-feed`,
@@ -88,6 +87,6 @@ module.exports = {
       options: {
         pathToConfigModule: 'src/utils/typography',
       },
-    }
+    },
   ],
 }

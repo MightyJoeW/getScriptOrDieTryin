@@ -8,7 +8,7 @@ function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
-      render={data => {
+      render={(data) => {
         const { author, social } = data.site.siteMetadata
         return (
           <div
@@ -27,11 +27,16 @@ function Bio() {
                 borderRadius: '100%',
               }}
             />
-            <div style={{
-              flexDirection: 'column'
-            }}>
-              <span>Personal blog by <strong>{author}</strong>.</span><br />
-              <span>Figuring out JavaScript one mistake at a time.</span>
+            <div
+              style={{
+                flexDirection: 'column',
+              }}
+            >
+              <span>
+                Personal blog by <strong>{author}</strong>.
+              </span>
+              <br />
+              <span>Career Tips and Insight For Software Developers</span>
             </div>
           </div>
         )
