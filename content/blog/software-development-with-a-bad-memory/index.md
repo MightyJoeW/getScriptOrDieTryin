@@ -17,7 +17,7 @@ This generated stress for a season, but what I perceived as a weakness became a 
 ##Repetition and Consistency > Memorization
 I realized early on in my coding journey how crucial repetition and consistency is when attempting to improve a skill. Early on, it felt like I was diving into an endless abyss of new terms and processes. I was taking notes abundantly, but I found myself questioning how I could possibly memorize a notebook worth of foreign concepts.
 
-The daily training, though, fueled heavily by my participation in <a hred="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">#100DaysOfCode</a> led to concepts sticking overtime. Eventually, repetition creates muscle memory which enables a task to become second nature. With this knowledge, it is imperative to not get frustrated when a new concept doesn’t click immediately.
+The daily training, though, fueled heavily by my participation in <a href="https://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">#100DaysOfCode</a> led to concepts sticking overtime. Eventually, repetition creates muscle memory which enables a task to become second nature. With this knowledge, it is imperative to not get frustrated when a new concept doesn’t click immediately.
 
 In full transparency, I went through an entire web development boot camp without understanding how to actually use props in React (if you’re unfamiliar with React, using props is one of the most basic concepts which allow you to pass data around your app). Similarly, it wasn’t until a year after initially being taught Redux that it finally clicked.
 
