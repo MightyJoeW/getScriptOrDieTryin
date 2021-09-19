@@ -11,6 +11,7 @@ module.exports = {
   plugins: [
     // enable google analytics with gatsby build and test with gatsby serve
     // docs https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
+    `gatsby-optional-chaining`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

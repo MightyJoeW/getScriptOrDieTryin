@@ -10,6 +10,7 @@
     "disqus-react": "^1.1.2",
     "gatsby": "^3.14.0",
     "gatsby-image": "^3.11.0",
+    "gatsby-optional-chaining": "^1.0.1",
     "gatsby-plugin-feed": "^3.14.0",
     "gatsby-plugin-google-analytics": "^3.14.0",
     "gatsby-plugin-manifest": "^3.14.0",
@@ -64,6 +65,8 @@
   },
   "scripts": {
     "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "test": "jest",
