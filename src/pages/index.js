@@ -1,8 +1,11 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
+import '@fontsource/roboto/300.css'
+import '@fontsource/roboto/400.css'
+import '@fontsource/roboto/500.css'
+import '@fontsource/roboto/700.css'
 
 import Bio from '../components/bio/bio'
-import Footer from '../components/footer/footer'
 import Layout from '../components/layout/layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
@@ -14,7 +17,24 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO
         title="All posts"
-        keywords={['blog', 'gatsby', 'javascript', 'react']}
+        keywords={[
+          'blog',
+          'gatsby',
+          'javascript',
+          'react',
+          'reactjs',
+          'gatsbyjs',
+          'frontend developer',
+          'full-stack developer',
+          'software engineer',
+          'ui engineer',
+          'html',
+          'css',
+          'coding bootcamp',
+          'how to code',
+          'programming',
+          'programming interview',
+        ]}
       />
       <Bio />
       {posts.map(({ node }) => {
@@ -35,7 +55,6 @@ const BlogIndex = ({ data, location }) => {
           </div>
         )
       })}
-      <Footer />
     </Layout>
   )
 }

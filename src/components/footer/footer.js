@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import { rhythm } from '../../utils/typography'
 
 const Footer = () => (
@@ -8,12 +9,14 @@ const Footer = () => (
       paddingTop: rhythm(1),
     }}
   >
+    {/* &copy; {new Date().getFullYear()} */}
+    <Link to={'/'}>Home</Link> &bull;{' '}
     <a
       href="https://mobile.twitter.com/mightyjoew"
       target="_blank"
       rel="noopener noreferrer"
     >
-      twitter
+      Twitter
     </a>{' '}
     &bull;{' '}
     <a
@@ -21,7 +24,7 @@ const Footer = () => (
       target="_blank"
       rel="noopener noreferrer"
     >
-      github
+      Github
     </a>{' '}
     &bull;{' '}
     <a
@@ -29,7 +32,7 @@ const Footer = () => (
       target="_blank"
       rel="noopener noreferrer"
     >
-      stack overflow
+      Stack Overflow
     </a>
   </footer>
 )
