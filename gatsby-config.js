@@ -12,6 +12,7 @@ module.exports = {
     // enable google analytics with gatsby build and test with gatsby serve
     // docs https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
     `gatsby-optional-chaining`,
+    `gatsby-plugin-material-ui`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -60,6 +61,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
