@@ -1,5 +1,5 @@
 ---
-title: 'Contributing to Open Source Made Simple: A Starter Guide for 2021'
+title: 'Contributing to Open Source: Where to Begin in 2021'
 date: '2021-09-27'
 ---
 
