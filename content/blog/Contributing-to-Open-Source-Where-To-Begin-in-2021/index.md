@@ -85,7 +85,7 @@ If you’re not having luck finding a project you feel you can contribute to, yo
 For the 2020 Hacktoberfest, my wife and I created a `hacktoberfest-accepted` project which displays 10 articles each day to highlight entrepreneurship and tech in the black community. The open issues are accessible <a href="https://github.com/teamwarren/blacktechdaily/issues" target="_blank" rel="noopener noreferrer">here
 </a>, and we welcome contributions big and small! The project is currently in a state of basic functionality and styling, so there is plenty of room for contributions.
 
-For `#Hacktoberfest2021`, I created and am maintaining the project <a href="https://opensourcedevs.com/" target="_blank" rel="noopener noreferrer">Open Source Devs</a> which encourages newcomers to contribute to open source. The site showcases each developer that contributes to the project and is accompanied by a step-by-step guide on how to contribute, <a href="https://www.getscriptordietryin.com/contributing-to-open-source-starter-guide/" target="_blank" rel="noopener noreferrer">Contributing to Open Source Starter Guide</a>.
+For `#Hacktoberfest2021`, I created and am maintaining the project <a href="https://opensourcedevs.netlify.app/" target="_blank" rel="noopener noreferrer">Open Source Devs</a> which encourages newcomers to contribute to open source. The site showcases each developer that contributes to the project and is accompanied by a step-by-step guide on how to contribute, <a href="https://www.getscriptordietryin.com/contributing-to-open-source-starter-guide/" target="_blank" rel="noopener noreferrer">Contributing to Open Source Starter Guide</a>.
 
 <figure>
   <img src="./8.png" alt="Open Source Devs UI"/>

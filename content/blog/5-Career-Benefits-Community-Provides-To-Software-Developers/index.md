@@ -84,7 +84,7 @@ For #Hacktoberfest2021, I created the <a href="https://github.com/MightyJoeW/Ope
 
 <figure>
   <img src="./osd.png" alt="Open Source Devs homepage"/>
-  <figcaption style="text-align: center"><a href="https://opensourcedevs.com/" target="_blank" rel="noopener noreferrer">Open Source Devs homepage
+  <figcaption style="text-align: center"><a href="https://opensourcedevs.netlify.app/" target="_blank" rel="noopener noreferrer">Open Source Devs homepage
 </a></figcaption>
 </figure>
 

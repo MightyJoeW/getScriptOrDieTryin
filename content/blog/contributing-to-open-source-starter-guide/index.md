@@ -31,7 +31,7 @@ Contributing to open source is an exciting endeavor that is packed with benefits
 
 For a brief overview of what open source is along with its benefits and how to get started, check out my previous post <a href="https://www.getscriptordietryin.com/Contributing-to-Open-Source-Where-To-Begin-in-2021/" target="_blank" rel="noopener noreferrer">Contributing to Open Source: Where to Begin in 2021</a>.
 
-If you are ready to contribute to a project but don’t know where to begin, I’ve created the site <a href="https://opensourcedevs.com/" target="_blank" rel="noopener noreferrer">Open Source Devs</a> specifically to encourage newcomers to contribute to open source. This guide will walk you through making a change to the code for your dev info to be featured on the site. If you are not intending on contributing to this project, the process will be the similar for whichever project you chose.
+If you are ready to contribute to a project but don’t know where to begin, I’ve created the site <a href="https://opensourcedevs.netlify.app/" target="_blank" rel="noopener noreferrer">Open Source Devs</a> specifically to encourage newcomers to contribute to open source. This guide will walk you through making a change to the code for your dev info to be featured on the site. If you are not intending on contributing to this project, the process will be the similar for whichever project you chose.
 
 <h2 id="how-to-find-an-open-source-project">How to Find an Open Source Project</h2>
 
@@ -42,7 +42,7 @@ Although you can browse GitHub and check the licenses of projects to learn about
   <figcaption style="text-align: center">GitHub Hacktoberfest topic</figcaption>
 </figure>
 
-This guide will utilize the <a href="https://opensourcedevs.com/" target="_blank" rel="noopener noreferrer">Open Source Devs</a> project to explain the contribution process. If you would like to have a dev card featured on the site, follow the steps below!
+This guide will utilize the <a href="https://opensourcedevs.netlify.app/" target="_blank" rel="noopener noreferrer">Open Source Devs</a> project to explain the contribution process. If you would like to have a dev card featured on the site, follow the steps below!
 
 <h2 id="how-to-run-a-project-locally">How to Run a Project Locally</h2>
 
@@ -122,7 +122,7 @@ You should see a grid of cards with developer names and links. For this contribu
 
 <h2 id="how-to-edit-the-code-locally">How to Edit the Code Locally</h2>
 
-1. <strong>Create a new branch</strong> - Now that you’ve got the project running, you need to create your own branch to work on. You are currently on the `main` branch which is a protected branch in this project. The code from the `main` branch is what appears on `https://opensourcedevs.com/`, so contributors are not allowed to push directly to it.
+1. <strong>Create a new branch</strong> - Now that you’ve got the project running, you need to create your own branch to work on. You are currently on the `main` branch which is a protected branch in this project. The code from the `main` branch is what appears on `https://opensourcedevs.netlify.app/`, so contributors are not allowed to push directly to it.
 
 To create a new branch, enter the following command into the terminal:
 `git checkout -b 'name-of-branch'` i.e. git checkout mightyjoew-bio
