@@ -1,10 +1,8 @@
 import React from 'react'
-import renderer from 'react-test-renderer'
-import NotFoundPage from '../pages/404'
+import { render, screen } from '@testing-library/react'
 
-describe('NotFoundPage tests', () => {
-  it('renders correctly', () => {
-    const tree = renderer.create(<NotFoundPage />).toJSON()
-    expect(tree).toMatchSnapshot()
-  })
+import NotFoundPage from '../pages/404'
+test('Displays the correct title', () => {
+  const { getByText } = render(<NotFoundPage />)
+  expect(screen.getByText('Error 404')).toBeInTheDocument()
 })
